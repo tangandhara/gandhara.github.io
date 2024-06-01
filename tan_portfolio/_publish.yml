@@ -1,5 +1,5 @@
 - source: project
-  quarto-pub:
+  quarto-pub: 
     - id: f56de488-c13a-4efd-b17f-315674b94e78
       url: 'https://quartopub.com/sites/tan-gandhara/tan-gandhara'
     - id: 59fc4fff-018a-4b94-b5fc-27269179eda4
