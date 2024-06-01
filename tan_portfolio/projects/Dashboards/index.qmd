@@ -1,0 +1,12 @@
+---
+title: "Dashboards"
+author: "Tan Gandhara"
+categories: [dashboards, dataviz, visualisation]
+subtitle: "A selection of Tableau dashboards"
+---
+
+Here's a few dashboards I made that are available to explore over on Tableau Public, just click on the title of each one.
+
+### [RWFD Hotel Dashboard](https://public.tableau.com/app/profile/tan.gandhara/viz/RWFDHotel-MontlyPerformanceData2020/Dashboard1 "RWFD Hotel Dashboard")
+
+![RWFD Hotel Dashboard](Dashboard%201.png){fig-alt="RWFD Hotel Dashboard"}

@@ -1,0 +1,14 @@
+{
+  "hash": "6df2009fe1b8693ad046b682fe175055",
+  "result": {
+    "markdown": "---\ntitle: \"Time Series Analysis\"\nauthor: \"Tan Gandhara\"\ncategories: [time series, forecasting, analysis]\nimage: \"revolut-logo-min.jpg\"\nsubtitle: \"A time series analysis of Revolut spending data\"\n---\n\n\nThis is a post that analyses spending data from Revolut.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

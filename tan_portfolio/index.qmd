@@ -1,0 +1,29 @@
+---
+title: "About Me"
+image: images/IMG_0750.jpg
+about: 
+  template: jolla
+  image-width: 6cm
+  image-shape: round
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/tan-gandhara
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/tangandhara
+    - icon: github
+      text: GitHub
+      href: https://github.com/tangandhara
+    - icon: envelope
+      text: Contact me
+      href: mailto:tangandhara+quarto@hotmail.com
+---
+
+Hi, I'm Tan. I'm data analyst with R, SQL, Power BI, and Tableau, experience.
+
+I'm always eager to explore new topics and challenge myself by finding creative ways to apply my knowledge and skills in various contexts.
+
+Check out some of my projects <a href='/projects.qmd'>here</a>.
+
+------------------------------------------------------------------------
