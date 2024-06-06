@@ -1,0 +1,41 @@
+{
+  "about.qmd": {
+    "about.html": "ef41ca8b"
+  },
+  "index.qmd": {
+    "index.html": "7eb4f555"
+  },
+  "posts/post-with-code/index.qmd": {
+    "index.html": "c93cffe4"
+  },
+  "posts/welcome/index.qmd": {
+    "index.html": "3c6cb475"
+  },
+  "projects.qmd": {
+    "projects.html": "23bc6561"
+  },
+  "projects/post-with-code/index.qmd": {
+    "index.html": "5f247b51"
+  },
+  "projects/welcome/index.qmd": {
+    "index.html": "f278537e"
+  },
+  "projects/Map/index.qmd": {
+    "index.html": "ba4d9bcc"
+  },
+  "projects/Time Series Analysis/index.qmd": {
+    "index.html": "82c311a0"
+  },
+  "projects/Gender_Pay_Gap/index.qmd": {
+    "index.html": "cc599856"
+  },
+  "projects/Time_Series_Analysis/index.qmd": {
+    "index.html": "00b10687"
+  },
+  "projects/Dashboards/index.qmd": {
+    "index.html": "81d76cc9"
+  },
+  "projects/Time_Series_Analysis/11111index.qmd": {
+    "11111index.html": "d3ba59fa"
+  }
+}
